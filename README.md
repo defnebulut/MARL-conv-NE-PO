@@ -1,1 +1,1 @@
-# MARL-conv-NE-PO
+# MARL Convergence to Nash Equilibria and Pareto Optimality
